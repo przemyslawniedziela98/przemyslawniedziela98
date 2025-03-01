@@ -10,7 +10,7 @@ I am a **Data Scientist** with  over 5 years of professional experience in Opera
 
 💼 By day, I’m a **Data Scientist at Uber** - crunching numbers, conducting inference research and developing various models.
 
-📚 By night and on weekends, I share my knowledge as a **Assistant University Teacher at WSEI College of Economics and Computer Science in Kraków** – helping students master Python and data science. 
+📚 By night and on weekends, I share my knowledge as a **Academic Teacher at WSEI College of Economics and Computer Science in Kraków** – helping students master Python and data science. 
 
 
 🌐 Connect with me: <br>
