@@ -2,13 +2,13 @@
 
 ### 🌍 About Me
 
-I am a **Data Scientist** with  over 5 years of professional experience in Operations and R&D. 
+I am an ML Engineer and a Data Science enthusiast with over 6 years of professional experience in Operations and R&D.
 
 🎓 I have a Master’s degree in **Automation & Robotics Engineering** from AGH University of Science and Technology in Kraków and have completed postgraduate studies in **Statistical Data Analysis Methods**. 
 
 🔬Currently, I am pursuing a **PhD focusing on SPLE**, specifically on variability and interactions modeling.
 
-💼 By day, I’m a **Data Scientist at Uber** - crunching numbers, conducting inference research and developing various models.
+💼 By day, I’m a **ML Engineer** - crunching numbers and developing various models.
 
 📚 By night and on weekends, I share my knowledge as a **Academic Teacher at WSEI College of Economics and Computer Science in Kraków** – helping students master Python and data science. 
 
