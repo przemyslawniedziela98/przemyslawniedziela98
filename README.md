@@ -2,7 +2,7 @@
 
 ### 🌍 About Me
 
-I am an ML Engineer and a Data Science enthusiast with over 6 years of professional experience in tech. 
+I am an ML Engineer and a Data Science enthusiast with over 7 years of professional experience in tech. 
 
 🌐 Connect with me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/przem-niedziela/) 
